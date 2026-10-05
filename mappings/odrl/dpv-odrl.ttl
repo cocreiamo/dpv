@@ -1,4 +1,4 @@
-@prefix odrl: <http://www.w3.org/ns/odrl/2/>
+@prefix odrl: <http://www.w3.org/ns/odrl/2/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
 @prefix dpv: <https://w3id.org/dpv#> .
